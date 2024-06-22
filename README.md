@@ -1,4 +1,4 @@
-# web-scrapping - como rapar cas informaçoes de um site
+# web-scrapping - como rapar as informaçoes de um site
 Web-scrapping integrada com whatspp e db
 Primeiro vc deve fazer as instalaçoes 
 
